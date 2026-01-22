@@ -1,0 +1,20 @@
+# Core Dependencies
+vosk>=0.3.45
+sounddevice>=0.4.6
+google-generativeai>=0.3.0
+pywin32>=306
+requests>=2.31.0
+
+# AI & Search
+wikipedia>=1.4.0
+
+# System Control
+psutil>=5.9.0
+pycaw>=20230407
+
+# Media & Screenshots
+pyautogui>=0.9.54
+Pillow>=10.0.0
+
+# Optional: Better TTS (fallback)
+pyttsx3>=2.90
