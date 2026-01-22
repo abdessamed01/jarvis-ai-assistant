@@ -63,8 +63,7 @@ Internet connection (for AI features)
 ## Installation
 1- Clone the repository
 
-git clone https://github.com/yourusername/jarvis-ai-assistant.git
-cd jarvis-ai-assistant
+git clone https://github.com/abdessamed01/jarvis-ai-assistant.git
 
 2- Install dependencies
 
