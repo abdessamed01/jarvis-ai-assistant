@@ -3,6 +3,8 @@
 
 A powerful, voice-activated AI assistant inspired by Iron Man's JARVIS. Built with Python, featuring wake word detection, Google Gemini AI integration, and comprehensive system control capabilities.
 
+![Image](https://github.com/user-attachments/assets/e6c85a5c-1b51-47ea-8ebf-9d2e318db0d9)
+
 
 ## ✨ Features
 🎤 Voice Control
