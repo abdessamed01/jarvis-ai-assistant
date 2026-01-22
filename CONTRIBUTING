@@ -1,0 +1,65 @@
+Contributing to JARVIS AI Assistant
+First off, thank you for considering contributing to JARVIS! 🎉
+How Can I Contribute?
+🐛 Reporting Bugs
+Before creating bug reports, please check existing issues. When creating a bug report, include:
+
+Clear title and description
+Steps to reproduce the issue
+Expected behavior vs actual behavior
+Python version and OS
+Error messages or logs
+Screenshots if applicable
+
+💡 Suggesting Features
+Feature suggestions are welcome! Please:
+
+Use a clear title describing the feature
+Provide detailed description of the feature
+Explain why this feature would be useful
+Include examples of how it would work
+
+🔧 Pull Requests
+
+Fork the repository
+Create a branch for your feature (git checkout -b feature/AmazingFeature)
+Make your changes with clear commit messages
+Test thoroughly - ensure existing features still work
+Update documentation if needed
+Submit pull request with clear description
+
+📝 Code Style
+
+Follow PEP 8 style guidelines
+Use meaningful variable and function names
+Add docstrings to functions
+Keep functions focused and modular
+Comment complex logic
+
+✅ Testing Checklist
+Before submitting, please verify:
+
+ Code runs without errors
+ Speech recognition works
+ Wake word detection functions
+ All major features work (time, weather, music, etc.)
+ No breaking changes to existing functionality
+ Documentation updated if needed
+
+Feature Ideas
+Here are some features we'd love to see:
+
+🌍 Multi-language support
+📱 Mobile app integration
+🏠 Smart home device control
+📅 Calendar integration
+🎮 Game launching
+💬 SMS/WhatsApp messaging
+🎨 Custom voice selection
+🔐 Security features (lock screen, etc.)
+📊 Data visualization
+🤖 More AI model options
+
+Questions?
+Feel free to open an issue with your question!
+Thank you for contributing! 🚀
